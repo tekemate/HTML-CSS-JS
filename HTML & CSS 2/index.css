@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+h1, p {
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    color: #FFE600;
+    font-weight: bold;
+}
+
+
+.accent-color {
+    color: #FFE600;
+}
+
+.header, section {
+    padding: 50px;
+}
+
+header {
+    background: #FFE600;
+    color: #000;
+    text-align: center;
+}
+
+.black-section {
+    background: black;
+    color: white;
+}
+
+.white-section {
+    background: white;
+    color: black;
+}
+
+.link{
+    color: black;
+}
+
+/* Button styles */
+
+.btn {
+    padding: 10px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.btn-accent {
+    background: #FFE600;
+    color: #000;
+}
+
+.btn-accent:hover {
+    background: #fff;
+}
+
+.btn-dark {
+    background: #000;
+    color: #fff;
+}
+
+.btn-dark:hover {
+    background: #FFE600;
+    color: #000;
+}
+
+
+
+
+
+
